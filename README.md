@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @alaa1733 --> Alaa Mohammed 
-- 👀 I’m interested in coding using java & python 
+- 👋 Hi, I’m Alaa Mohammed 
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning UX & UI 
 
 
