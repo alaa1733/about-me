@@ -4,7 +4,7 @@
 
 
 
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+!
 
 Hard-working computer science student with a strong desire to learn more about data science. willing to learn more programming languages. I have four years of experience in different areas of programming .
 
